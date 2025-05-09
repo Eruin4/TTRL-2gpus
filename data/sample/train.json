@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "If Clara doubles a number and then adds 3 , the result is 23 . The original number is\n(A) 13\n(B) 10\n(C) 49\n(D) 17\n(E) 20",
+    "answer": "10",
+    "source": "open_r1",
+    "id": "0"
+  },
+  {
+    "prompt": "The straight line $y=ax+16$ intersects the graph of $y=x^3$ at $2$ distinct points. What is the value of $a$?",
+    "answer": "12",
+    "source": "open_r1",
+    "id": "1"
+  },
+  {
+    "prompt": "66. Given a triangle $A B C$, where $|A B|=|A C|$, $\\widehat{B A C}=80^{\\circ}$. Inside the triangle, a point $M$ is taken such that $\\widehat{M} \\overrightarrow{B C}=30^{\\circ}, \\widehat{M C B}=10^{\\circ}$. Find $\\widehat{A M C}$.",
+    "answer": "70",
+    "source": "open_r1",
+    "id": "2"
+  },
+  {
+    "prompt": "If $a$, $6$, and $b$, in that order, form an arithmetic sequence, compute $a+b$.",
+    "answer": "12",
+    "source": "open_r1",
+    "id": "3"
+  }
+]
